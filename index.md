@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: "About"
+permalink: /
 ---
 
 ## Талько Елена Вадимовна
@@ -16,3 +16,4 @@ permalink: /about/
 
 
 <img src="{{ '/assets/img/photo_from_beograd.jpg' | relative_url }}" alt="Me" width="300" style="border-radius:8px;">
+
