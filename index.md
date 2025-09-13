@@ -15,5 +15,5 @@ permalink: /
 Контакт - писать сюда, ответ в рабочие часы.
 
 
-<img src="{{ '/assets/img/photo_from_beograd.jpg' | relative_url }}" alt="Me" width="300" style="border-radius:8px;">
+<img src="{{ '/assets/img/photo_from_beograd.jpg' | relative_url }}" alt="Me" width="400" style="border-radius:8px;">
 
