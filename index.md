@@ -8,7 +8,7 @@ permalink: /
 
 Талько Елена Вадимовна - опытный преподаватель. Основной род деятельности преподаватель фармакологии и терапии.
 
-<img src="{{ '/assets/img/photo_job.jpg' | relative_url }}" alt="Me" width="400" style="border-radius:8px;">
+<img src="{{ '/assets/img/proto_job.jpg' | relative_url }}" alt="Me" width="400" style="border-radius:8px;">
 
 ### Опыт работы
 Опыт работы - Московское Медицинское Училище №24, что-то около 30 лет. Опыт работы репититором.
